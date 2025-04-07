@@ -1,5 +1,6 @@
 <div align="center">
-  
+  <img src="public/preview.png" alt="Prepwise Logo"  width="200" style="padding-bottom: 1rem;/>
+
   <div>
     <img src="https://img.shields.io/badge/-Next.JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=black" alt="next.js" />
     <img src="https://img.shields.io/badge/-Vapi-white?style=for-the-badge&color=5dfeca" alt="vapi" />
