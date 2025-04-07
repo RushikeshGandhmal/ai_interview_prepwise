@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="public/preview.png" alt="Prepwise Logo"  width="200" style="padding-bottom: 1rem;/>
+  <div style="height: auto; width: 200px; padding-bottom: 2rem;">
+    <img src="public/preview.png" alt="Prepwise Logo" width="100%" />
+  </div>
 
   <div>
     <img src="https://img.shields.io/badge/-Next.JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=black" alt="next.js" />
