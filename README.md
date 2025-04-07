@@ -1,7 +1,4 @@
 <div align="center">
-  <div style="height: auto; width: 200px; padding-bottom: 2rem;">
-    <img src="public/preview.png" alt="Prepwise Logo" width="100%" />
-  </div>
 
   <div>
     <img src="https://img.shields.io/badge/-Next.JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=black" alt="next.js" />
@@ -11,6 +8,10 @@
   </div>
 
   <h3 align="center">Prepwise: A job interview preparation platform powered by Vapi AI Voice agents</h3>
+
+  <div style="height: auto; width: 200px; padding: 2rem;">
+    <img src="public/preview.png" alt="Prepwise Logo" width="100%" />
+  </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
